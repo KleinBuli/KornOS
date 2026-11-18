@@ -1,3 +1,4 @@
+# Create a Thread
 class Thread:
     def __init__(self, id, pointer, register, stack, state):
         self.id = id

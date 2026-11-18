@@ -11,5 +11,4 @@ def main():
 
     process_table.register_process(process)
 
-
 main()
