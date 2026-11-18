@@ -1,6 +1,5 @@
 from process.pcb import ProcessControlBlock, ProcessTable
 
-
 def main():
     print("KornOS v0.1")
     print("Kornel initalized.")
